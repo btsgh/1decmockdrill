@@ -51,11 +51,28 @@
     {
       "id": "Hubspot",
       "isDefault": false
+    },
+    {
+      "id": " Newpagetest",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "theme",
+      "logoAssetId": "6569922233ce331c558c9495",
+      "logoConfiguration": "logoOnly",
+      "showSignIn": true
+    }
+  },
   "color": "#FFEFDB",
   "unpublishedCustomJSLibs": [
     {
