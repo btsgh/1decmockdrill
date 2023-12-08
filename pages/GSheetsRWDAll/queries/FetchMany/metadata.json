@@ -82,7 +82,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-27T13:15:21Z"
   },
   "id": "GSheetsRWDAll_FetchMany",
   "deleted": false,

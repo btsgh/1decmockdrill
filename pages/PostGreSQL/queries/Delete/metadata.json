@@ -41,7 +41,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-28T11:28:35Z"
   },
   "id": "PostGreSQL_Delete",
   "deleted": false,

@@ -35,7 +35,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-27T14:10:19Z"
   },
   "id": "PostGreSQL_Select",
   "deleted": false,

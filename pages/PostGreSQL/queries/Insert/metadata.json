@@ -42,7 +42,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-28T11:25:59Z"
   },
   "id": "PostGreSQL_Insert",
   "deleted": false,

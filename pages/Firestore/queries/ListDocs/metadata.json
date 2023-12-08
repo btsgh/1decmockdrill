@@ -69,7 +69,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-27T13:46:03Z"
   },
   "id": "Firestore_ListDocs",
   "deleted": false,

@@ -91,7 +91,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-28T11:09:26Z"
   },
   "id": "S3_ListFiles",
   "deleted": false,

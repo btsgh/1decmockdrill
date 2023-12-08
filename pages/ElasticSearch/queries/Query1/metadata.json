@@ -31,7 +31,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-27T14:21:22Z"
   },
   "id": "ElasticSearch_Query1",
   "deleted": false,

@@ -84,7 +84,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-27T13:31:03Z"
   },
   "id": "GSheetsRWDSel1Column_FetchMany_1Column",
   "deleted": false,

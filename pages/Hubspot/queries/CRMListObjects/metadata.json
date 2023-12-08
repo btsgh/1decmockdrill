@@ -29,7 +29,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-10-17T08:01:06Z"
   },
   "id": "Hubspot_CRMListObjects",
   "deleted": false,

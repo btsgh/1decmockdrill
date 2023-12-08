@@ -79,7 +79,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-27T13:24:31Z"
   },
   "id": "GSheetsRWDAll_InsertOne",
   "deleted": false,

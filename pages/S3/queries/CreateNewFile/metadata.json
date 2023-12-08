@@ -80,7 +80,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-28T11:10:10Z"
   },
   "id": "S3_CreateNewFile",
   "deleted": false,
